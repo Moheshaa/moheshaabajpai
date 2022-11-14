@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/moheshaabajpai/static/css/main.0ae5aa3c.css",
+    "main.js": "/moheshaabajpai/static/js/main.6a677293.js",
+    "static/media/portfolio-06.png": "/moheshaabajpai/static/media/portfolio-06.0b21612e87e7da57d1e3.png",
+    "static/media/portfolio-08.png": "/moheshaabajpai/static/media/portfolio-08.6a7488e27036a9c9216e.png",
+    "static/media/portfolio-09.png": "/moheshaabajpai/static/media/portfolio-09.118fef8b45b7f2655fc8.png",
+    "static/media/portfolio-04.png": "/moheshaabajpai/static/media/portfolio-04.1c4e95f03b70f078e6da.png",
+    "static/media/portfolio-02.png": "/moheshaabajpai/static/media/portfolio-02.49602874b00d11851732.png",
+    "static/media/portfolio-05.png": "/moheshaabajpai/static/media/portfolio-05.800939aee5a1fea1560c.png",
+    "static/media/portfolio-11.png": "/moheshaabajpai/static/media/portfolio-11.61be93222edd45ed70b0.png",
+    "static/media/portfolio-07.png": "/moheshaabajpai/static/media/portfolio-07.8d3861f975cc00ee3026.png",
+    "static/media/portfolio-01.png": "/moheshaabajpai/static/media/portfolio-01.a3e8829af909772c5a13.png",
+    "static/media/portfolio-10.png": "/moheshaabajpai/static/media/portfolio-10.7a6acc253fae3e6ed364.png",
+    "static/media/portfolio-03.png": "/moheshaabajpai/static/media/portfolio-03.9b5134ee7e8d6c45d36f.png",
+    "static/media/bg-03.png": "/moheshaabajpai/static/media/bg-03.f6f1442849dec6a030fe.png",
+    "static/media/me.png": "/moheshaabajpai/static/media/me.e93e90040a54e38ab60f.png",
+    "static/media/me-about.png": "/moheshaabajpai/static/media/me-about.5ef1f424f6f83642880e.png",
+    "static/media/cv.pdf": "/moheshaabajpai/static/media/cv.4741746c3d49948b1d81.pdf",
+    "static/media/bgp-04.png": "/moheshaabajpai/static/media/bgp-04.bec3dd15a2313321ed04.png",
+    "index.html": "/moheshaabajpai/index.html",
+    "main.0ae5aa3c.css.map": "/moheshaabajpai/static/css/main.0ae5aa3c.css.map",
+    "main.6a677293.js.map": "/moheshaabajpai/static/js/main.6a677293.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae5aa3c.css",
+    "static/js/main.6a677293.js"
+  ]
+}
